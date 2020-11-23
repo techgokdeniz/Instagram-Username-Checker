@@ -1,0 +1,10 @@
+C:\Users\Gokdeniz\source\repos\İnstagramChecker\İnstagramChecker\bin\Debug\İnstagramChecker.exe.config
+C:\Users\Gokdeniz\source\repos\İnstagramChecker\İnstagramChecker\bin\Debug\İnstagramChecker.exe
+C:\Users\Gokdeniz\source\repos\İnstagramChecker\İnstagramChecker\bin\Debug\İnstagramChecker.pdb
+C:\Users\Gokdeniz\source\repos\İnstagramChecker\İnstagramChecker\obj\Debug\İnstagramChecker.csprojAssemblyReference.cache
+C:\Users\Gokdeniz\source\repos\İnstagramChecker\İnstagramChecker\obj\Debug\İnstagramChecker.Properties.Resources.resources
+C:\Users\Gokdeniz\source\repos\İnstagramChecker\İnstagramChecker\obj\Debug\İnstagramChecker.csproj.GenerateResource.cache
+C:\Users\Gokdeniz\source\repos\İnstagramChecker\İnstagramChecker\obj\Debug\İnstagramChecker.csproj.CoreCompileInputs.cache
+C:\Users\Gokdeniz\source\repos\İnstagramChecker\İnstagramChecker\obj\Debug\İnstagramChecker.exe
+C:\Users\Gokdeniz\source\repos\İnstagramChecker\İnstagramChecker\obj\Debug\İnstagramChecker.pdb
+C:\Users\Gokdeniz\source\repos\İnstagramChecker\İnstagramChecker\obj\Debug\İnstagramChecker.Form1.resources
