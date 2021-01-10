@@ -38,6 +38,9 @@
             this.listBox2 = new System.Windows.Forms.ListBox();
             this.button2 = new System.Windows.Forms.Button();
             this.progressBar1 = new System.Windows.Forms.ProgressBar();
+            this.button3 = new System.Windows.Forms.Button();
+            this.textBox2 = new System.Windows.Forms.TextBox();
+            this.btn4 = new System.Windows.Forms.Button();
             this.groupBox1.SuspendLayout();
             this.groupBox2.SuspendLayout();
             this.SuspendLayout();
@@ -63,9 +66,9 @@
             // 
             this.groupBox1.Controls.Add(this.listBox1);
             this.groupBox1.ForeColor = System.Drawing.Color.Crimson;
-            this.groupBox1.Location = new System.Drawing.Point(12, 83);
+            this.groupBox1.Location = new System.Drawing.Point(12, 108);
             this.groupBox1.Name = "groupBox1";
-            this.groupBox1.Size = new System.Drawing.Size(536, 215);
+            this.groupBox1.Size = new System.Drawing.Size(536, 190);
             this.groupBox1.TabIndex = 2;
             this.groupBox1.TabStop = false;
             this.groupBox1.Text = "Sorgulanacaklar Listesi";
@@ -127,11 +130,41 @@
             this.progressBar1.Size = new System.Drawing.Size(524, 23);
             this.progressBar1.TabIndex = 5;
             // 
+            // button3
+            // 
+            this.button3.Location = new System.Drawing.Point(390, 54);
+            this.button3.Name = "button3";
+            this.button3.Size = new System.Drawing.Size(152, 20);
+            this.button3.TabIndex = 6;
+            this.button3.Text = "Browse";
+            this.button3.UseVisualStyleBackColor = true;
+            this.button3.Click += new System.EventHandler(this.button3_Click);
+            // 
+            // textBox2
+            // 
+            this.textBox2.Location = new System.Drawing.Point(12, 54);
+            this.textBox2.Name = "textBox2";
+            this.textBox2.Size = new System.Drawing.Size(372, 20);
+            this.textBox2.TabIndex = 7;
+            // 
+            // btn4
+            // 
+            this.btn4.Location = new System.Drawing.Point(390, 80);
+            this.btn4.Name = "btn4";
+            this.btn4.Size = new System.Drawing.Size(152, 23);
+            this.btn4.TabIndex = 8;
+            this.btn4.Text = "Import TXT";
+            this.btn4.UseVisualStyleBackColor = true;
+            this.btn4.Click += new System.EventHandler(this.btn4_Click);
+            // 
             // Form1
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
             this.ClientSize = new System.Drawing.Size(572, 632);
+            this.Controls.Add(this.btn4);
+            this.Controls.Add(this.textBox2);
+            this.Controls.Add(this.button3);
             this.Controls.Add(this.progressBar1);
             this.Controls.Add(this.button2);
             this.Controls.Add(this.groupBox2);
@@ -161,6 +194,9 @@
         private System.Windows.Forms.ListBox listBox2;
         private System.Windows.Forms.Button button2;
         private System.Windows.Forms.ProgressBar progressBar1;
+        private System.Windows.Forms.Button button3;
+        private System.Windows.Forms.TextBox textBox2;
+        private System.Windows.Forms.Button btn4;
     }
 }
 
